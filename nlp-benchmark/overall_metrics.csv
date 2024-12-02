@@ -1,0 +1,4 @@
+model, feature, seed, test_loss, test_accuracy, test_f1, test_precision, test_recall
+rogerta-large, sentiment_label, 42, 1.100316, 0.612345, 0.388152,  0.671342, 0.428571
+rogerta-large, time_label, 42, 0.387971, 0.785714, 0.782018, 0.806122, 0.785714
+rogerta-large, certain_label, 42, 0.477209, 0.821429, 0.845238, 0.900893, 0.821429
